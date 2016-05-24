@@ -36,4 +36,3 @@ for i in lena:
 ffhand = open('restore.raw', 'w')
 ffhand.write(res)
 ffhand.close()
-print len(res)
